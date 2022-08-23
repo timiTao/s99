@@ -5,15 +5,15 @@ This is my first attempt with [Scala](https://www.scala-lang.org/). Wanted to tr
 
 ### Task
 
-|Section| Result |
-|---|--------|
-|[Working with lists](/list)| 0/28   |
-|[Arithmetic](/arithmetic)| 0/11   |
-|[Logic and Codes](/logic)| 0/5    |
-|[Binary Trees](/binarytree)| 0/16   |
-|Multiway Trees| 0/4    |
-|Graphs| 0/10   | 0
-|[Miscellaneous Problems](/miscellaneous)| 0/10   |
+| Section                                    | Result |
+|--------------------------------------------|--------|
+| [Working with lists](/src/main/scala/list) | 0/28   |
+| [Arithmetic](/src/main/scala/arithmetic)                  | 0/11   |
+| [Logic and Codes](/src/main/scala/logic)                  | 0/5    |
+| [Binary Trees](/src/main/scala/binarytree)                | 0/16   |
+| Multiway Trees                             | 0/4    |
+| Graphs                                     | 0/10   | 0
+| [Miscellaneous Problems](/src/main/scala/miscellaneous)   | 0/10   |
 
 ### Sources
 
